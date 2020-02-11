@@ -1,0 +1,12 @@
+cavendish-mature
+cavendish-ripe over mature
+cavendish-under mature
+lakatan-mature
+lakatan-ripe over mature
+lakatan-under mature
+latondan-mature
+latondan-ripe over mature
+latondan-under mature
+saba-mature
+saba-ripe over mature
+saba-under mature
